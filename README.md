@@ -1,7 +1,7 @@
 # PageRank
 PageRank algorithm for Java, Hadoop
 
-Usage reference
+##Usage reference
 
 |--help (-h): display the help text|
 |--damping (-d) : the damping factor [OPTIONAL] [DEFAULT = 0.85]|
